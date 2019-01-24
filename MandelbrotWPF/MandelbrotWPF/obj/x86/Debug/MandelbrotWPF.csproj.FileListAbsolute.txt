@@ -1,0 +1,38 @@
+C:\Users\mike.james\documents\visual studio 2010\Projects\MandelbrotWPF\MandelbrotWPF\bin\Debug\MandelbrotWPF.exe
+C:\Users\mike.james\documents\visual studio 2010\Projects\MandelbrotWPF\MandelbrotWPF\bin\Debug\MandelbrotWPF.pdb
+C:\Users\mike.james\documents\visual studio 2010\Projects\MandelbrotWPF\MandelbrotWPF\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mike.james\documents\visual studio 2010\Projects\MandelbrotWPF\MandelbrotWPF\obj\x86\Debug\MainWindow.baml
+C:\Users\mike.james\documents\visual studio 2010\Projects\MandelbrotWPF\MandelbrotWPF\obj\x86\Debug\MainWindow.g.cs
+C:\Users\mike.james\documents\visual studio 2010\Projects\MandelbrotWPF\MandelbrotWPF\obj\x86\Debug\App.g.cs
+C:\Users\mike.james\documents\visual studio 2010\Projects\MandelbrotWPF\MandelbrotWPF\obj\x86\Debug\MandelbrotWPF_MarkupCompile.cache
+C:\Users\mike.james\documents\visual studio 2010\Projects\MandelbrotWPF\MandelbrotWPF\obj\x86\Debug\MandelbrotWPF.g.resources
+C:\Users\mike.james\documents\visual studio 2010\Projects\MandelbrotWPF\MandelbrotWPF\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\mike.james\documents\visual studio 2010\Projects\MandelbrotWPF\MandelbrotWPF\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mike.james\documents\visual studio 2010\Projects\MandelbrotWPF\MandelbrotWPF\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mike.james\documents\visual studio 2010\Projects\MandelbrotWPF\MandelbrotWPF\obj\x86\Debug\MandelbrotWPF.exe
+C:\Users\mike.james\documents\visual studio 2010\Projects\MandelbrotWPF\MandelbrotWPF\obj\x86\Debug\MandelbrotWPF.pdb
+C:\Users\Linh\Desktop\comp585\MandelbrotWPF\MandelbrotWPF\obj\x86\Debug\MandelbrotWPF.exe
+C:\Users\Linh\Desktop\comp585\MandelbrotWPF\MandelbrotWPF\obj\x86\Debug\MandelbrotWPF.pdb
+C:\Users\Linh\Desktop\comp585\MandelbrotWPF\MandelbrotWPF\bin\Debug\MandelbrotWPF.exe
+C:\Users\Linh\Desktop\comp585\MandelbrotWPF\MandelbrotWPF\bin\Debug\MandelbrotWPF.pdb
+C:\Users\Linh\Desktop\comp585\MandelbrotWPF\MandelbrotWPF\obj\x86\Debug\MandelbrotWPF.csprojResolveAssemblyReference.cache
+C:\Users\Linh\Desktop\comp585\MandelbrotWPF\MandelbrotWPF\obj\x86\Debug\MainWindow.baml
+C:\Users\Linh\Desktop\comp585\MandelbrotWPF\MandelbrotWPF\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Linh\Desktop\comp585\MandelbrotWPF\MandelbrotWPF\obj\x86\Debug\App.g.cs
+C:\Users\Linh\Desktop\comp585\MandelbrotWPF\MandelbrotWPF\obj\x86\Debug\MandelbrotWPF_MarkupCompile.cache
+C:\Users\Linh\Desktop\comp585\MandelbrotWPF\MandelbrotWPF\obj\x86\Debug\MandelbrotWPF.g.resources
+C:\Users\Linh\Desktop\comp585\MandelbrotWPF\MandelbrotWPF\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Linh\Desktop\comp585\MandelbrotWPF\MandelbrotWPF\obj\x86\Debug\MandelbrotWPF.csproj.GenerateResource.Cache
+H:\comp585\MandelbrotWPF\MandelbrotWPF\bin\Debug\MandelbrotWPF.exe
+H:\comp585\MandelbrotWPF\MandelbrotWPF\bin\Debug\MandelbrotWPF.pdb
+H:\comp585\MandelbrotWPF\MandelbrotWPF\obj\x86\Debug\MandelbrotWPF.csprojAssemblyReference.cache
+H:\comp585\MandelbrotWPF\MandelbrotWPF\obj\x86\Debug\MainWindow.baml
+H:\comp585\MandelbrotWPF\MandelbrotWPF\obj\x86\Debug\MainWindow.g.cs
+H:\comp585\MandelbrotWPF\MandelbrotWPF\obj\x86\Debug\App.g.cs
+H:\comp585\MandelbrotWPF\MandelbrotWPF\obj\x86\Debug\MandelbrotWPF_MarkupCompile.cache
+H:\comp585\MandelbrotWPF\MandelbrotWPF\obj\x86\Debug\MandelbrotWPF.g.resources
+H:\comp585\MandelbrotWPF\MandelbrotWPF\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+H:\comp585\MandelbrotWPF\MandelbrotWPF\obj\x86\Debug\MandelbrotWPF.csproj.GenerateResource.cache
+H:\comp585\MandelbrotWPF\MandelbrotWPF\obj\x86\Debug\MandelbrotWPF.csproj.CoreCompileInputs.cache
+H:\comp585\MandelbrotWPF\MandelbrotWPF\obj\x86\Debug\MandelbrotWPF.exe
+H:\comp585\MandelbrotWPF\MandelbrotWPF\obj\x86\Debug\MandelbrotWPF.pdb
